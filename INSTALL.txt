@@ -1,0 +1,21 @@
+Install CityWho
+
+
+CityWho is a DataWiki for community groups.
+
+https://github.com/codeforamerica/Data-Wiki
+git clone git@github.com:codeforamerica/Data-Wiki.git
+
+
+ROADMAP
+
+There will be an install profile when the tool gets to a release version,
+but basically you'll turn on features for the data wiki and 
+this should turn on the settings that you need.
+
+
+FEATURES
+Datawiki Resources (Drupal settings)
+Devel Resources (Developer tools for managing the site)
+Web Resource (Main resource type - setups up most of the fields that all other types would use)
+Mailing List
