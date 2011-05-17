@@ -90,6 +90,8 @@ and with folks at civic code-a-thons in Seattle. (June 3/4/5)
 
 ### Get the Code on GitHub
 
+https://github.com/codeforamerica/CityWho
+
 This tool is built with Drupal. It will be available as an installation
 profile, and eventually it could use the Open Public features. 
 Open Public is a special distribution of Drupal that has been especially designed
